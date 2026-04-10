@@ -1,6 +1,6 @@
 # home-dns-dhcp
 
-```mermaid 
+```mermaid
 flowchart TD
 
     %% Internet
