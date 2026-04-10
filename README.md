@@ -1,5 +1,6 @@
 # home-dns-dhcp
 
+```mermaid 
 flowchart TD
 
     %% Internet
@@ -38,3 +39,4 @@ flowchart TD
     Deco --> iPhone
     Deco --> Tesla
     Deco --> IoT
+```
